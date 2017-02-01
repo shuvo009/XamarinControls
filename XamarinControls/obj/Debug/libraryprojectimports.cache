@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\GitHubProjects\XamarinControls\XamarinControls\obj\Debug\__library_projects__\FloatingActionButton\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\GitHubProjects\XamarinControls\XamarinControls\obj\Debug\__library_projects__\MaterialViewPager\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\GitHubProjects\XamarinControls\XamarinControls\obj\Debug\__library_projects__\PagerSlidingTabStrip\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\FloatingActionButton\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MaterialViewPager\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\PagerSlidingTabStrip\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\GitHubProjects\XamarinControls\XamarinControls\obj\Debug\__library_projects__\FloatingActionButton.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\GitHubProjects\XamarinControls\XamarinControls\obj\Debug\__library_projects__\MaterialViewPager.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\GitHubProjects\XamarinControls\XamarinControls\obj\Debug\__library_projects__\PagerSlidingTabStrip.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

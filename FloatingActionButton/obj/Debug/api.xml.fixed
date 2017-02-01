@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<api>
+  <package name="com.getbase.floatingactionbutton">
+    <class abstract="false" deprecated="not deprecated" extends="com.getbase.floatingactionbutton.FloatingActionButton" extends-generic-aware="com.getbase.floatingactionbutton.FloatingActionButton" final="false" name="AddFloatingActionButton" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="AddFloatingActionButton" static="false" type="com.getbase.floatingactionbutton.AddFloatingActionButton" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="android.util.AttributeSet">
+        </parameter>
+        <parameter name="p2" type="int">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="AddFloatingActionButton" static="false" type="com.getbase.floatingactionbutton.AddFloatingActionButton" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="android.util.AttributeSet">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="AddFloatingActionButton" static="false" type="com.getbase.floatingactionbutton.AddFloatingActionButton" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getPlusColor" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setPlusColor" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setPlusColorResId" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.graphics.drawable.shapes.Shape" extends-generic-aware="android.graphics.drawable.shapes.Shape" final="false" name="AddFloatingActionButton.1" static="false" visibility="">
+      <method abstract="false" deprecated="not deprecated" final="false" name="draw" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.graphics.Canvas">
+        </parameter>
+        <parameter name="p1" type="android.graphics.Paint">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="BuildConfig" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="BuildConfig" static="false" type="com.getbase.floatingactionbutton.BuildConfig" visibility="public">
+      </constructor>
+      <field deprecated="not deprecated" final="true" name="APPLICATION_ID" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.getbase.floatingactionbutton&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="BUILD_TYPE" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;release&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="DEBUG" static="true" transient="false" type="boolean" type-generic-aware="boolean" value="false" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="FLAVOR" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="VERSION_CODE" static="true" transient="false" type="int" type-generic-aware="int" value="15" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="VERSION_NAME" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;1.10.1&quot;" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.widget.ImageButton" extends-generic-aware="android.widget.ImageButton" final="false" name="FloatingActionButton" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="FloatingActionButton" static="false" type="com.getbase.floatingactionbutton.FloatingActionButton" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="android.util.AttributeSet">
+        </parameter>
+        <parameter name="p2" type="int">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="FloatingActionButton" static="false" type="com.getbase.floatingactionbutton.FloatingActionButton" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="android.util.AttributeSet">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="FloatingActionButton" static="false" type="com.getbase.floatingactionbutton.FloatingActionButton" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getColorDisabled" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getColorNormal" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getColorPressed" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getSize" native="false" return="int" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getTitle" native="false" return="java.lang.String" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="isStrokeVisible" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setColorDisabled" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setColorDisabledResId" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setColorNormal" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setColorNormalResId" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setColorPressed" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setColorPressedResId" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setIcon" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setIconDrawable" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.graphics.drawable.Drawable">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setSize" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setStrokeVisible" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="boolean">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setTitle" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+      <field deprecated="not deprecated" final="true" name="SIZE_MINI" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="SIZE_NORMAL" static="true" transient="false" type="int" type-generic-aware="int" value="0" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.graphics.drawable.ShapeDrawable.ShaderFactory" extends-generic-aware="android.graphics.drawable.ShapeDrawable.ShaderFactory" final="false" name="FloatingActionButton.1" static="false" visibility="">
+      <method abstract="false" deprecated="not deprecated" final="false" name="resize" native="false" return="android.graphics.Shader" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+        <parameter name="p1" type="int">
+        </parameter>
+      </method>
+    </class>
+    <interface abstract="true" deprecated="not deprecated" final="false" name="FloatingActionButton.FAB_SIZE" static="true" visibility="public">
+      <implements name="java.lang.annotation.Annotation" name-generic-aware="java.lang.annotation.Annotation">
+      </implements>
+    </interface>
+    <class abstract="false" deprecated="not deprecated" extends="android.graphics.drawable.LayerDrawable" extends-generic-aware="android.graphics.drawable.LayerDrawable" final="false" name="FloatingActionButton.TranslucentLayerDrawable" static="true" visibility="">
+      <constructor deprecated="not deprecated" final="false" name="FloatingActionButton.TranslucentLayerDrawable" static="false" type="com.getbase.floatingactionbutton.FloatingActionButton.TranslucentLayerDrawable" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+        <parameter name="p1" type="android.graphics.drawable.Drawable...">
+        </parameter>
+      </constructor>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.view.ViewGroup" extends-generic-aware="android.view.ViewGroup" final="false" name="FloatingActionsMenu" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="FloatingActionsMenu" static="false" type="com.getbase.floatingactionbutton.FloatingActionsMenu" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="android.util.AttributeSet">
+        </parameter>
+        <parameter name="p2" type="int">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="FloatingActionsMenu" static="false" type="com.getbase.floatingactionbutton.FloatingActionsMenu" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="android.util.AttributeSet">
+        </parameter>
+      </constructor>
+      <constructor deprecated="not deprecated" final="false" name="FloatingActionsMenu" static="false" type="com.getbase.floatingactionbutton.FloatingActionsMenu" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="addButton" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.getbase.floatingactionbutton.FloatingActionButton">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="collapse" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="collapseImmediately" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="expand" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="isExpanded" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="onLayout" native="false" return="void" static="false" synchronized="false" visibility="protected">
+        <parameter name="p0" type="boolean">
+        </parameter>
+        <parameter name="p1" type="int">
+        </parameter>
+        <parameter name="p2" type="int">
+        </parameter>
+        <parameter name="p3" type="int">
+        </parameter>
+        <parameter name="p4" type="int">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="onRestoreInstanceState" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Parcelable">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="onSaveInstanceState" native="false" return="android.os.Parcelable" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="removeButton" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.getbase.floatingactionbutton.FloatingActionButton">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setOnFloatingActionsMenuUpdateListener" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="com.getbase.floatingactionbutton.FloatingActionsMenu.OnFloatingActionsMenuUpdateListener">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="toggle" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <field deprecated="not deprecated" final="true" name="EXPAND_DOWN" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="EXPAND_LEFT" static="true" transient="false" type="int" type-generic-aware="int" value="2" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="EXPAND_RIGHT" static="true" transient="false" type="int" type-generic-aware="int" value="3" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="EXPAND_UP" static="true" transient="false" type="int" type-generic-aware="int" value="0" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="LABELS_ON_LEFT_SIDE" static="true" transient="false" type="int" type-generic-aware="int" value="0" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="LABELS_ON_RIGHT_SIDE" static="true" transient="false" type="int" type-generic-aware="int" value="1" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="com.getbase.floatingactionbutton.AddFloatingActionButton" extends-generic-aware="com.getbase.floatingactionbutton.AddFloatingActionButton" final="false" name="FloatingActionsMenu.1" static="false" visibility="" />
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="FloatingActionsMenu.2" static="false" visibility="">
+      <implements name="android.view.View.OnClickListener" name-generic-aware="android.view.View.OnClickListener">
+      </implements>
+      <method abstract="false" deprecated="not deprecated" final="false" name="onClick" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.view.View">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.view.ViewGroup.LayoutParams" extends-generic-aware="android.view.ViewGroup.LayoutParams" final="false" name="FloatingActionsMenu.LayoutParams" static="false" visibility="">
+      <constructor deprecated="not deprecated" final="false" name="FloatingActionsMenu.LayoutParams" static="false" type="com.getbase.floatingactionbutton.FloatingActionsMenu.LayoutParams" visibility="public">
+        <parameter name="p1" type="android.view.ViewGroup.LayoutParams">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setAnimationsTarget" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.view.View">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.animation.AnimatorListenerAdapter" extends-generic-aware="android.animation.AnimatorListenerAdapter" final="false" name="FloatingActionsMenu.LayoutParams.1" static="false" visibility="" />
+    <interface abstract="true" deprecated="not deprecated" final="false" name="FloatingActionsMenu.OnFloatingActionsMenuUpdateListener" static="true" visibility="public">
+      <method abstract="true" deprecated="not deprecated" final="false" name="onMenuCollapsed" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="true" deprecated="not deprecated" final="false" name="onMenuExpanded" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+    </interface>
+    <class abstract="false" deprecated="not deprecated" extends="android.graphics.drawable.LayerDrawable" extends-generic-aware="android.graphics.drawable.LayerDrawable" final="false" name="FloatingActionsMenu.RotatingDrawable" static="true" visibility="">
+      <constructor deprecated="not deprecated" final="false" name="FloatingActionsMenu.RotatingDrawable" static="false" type="com.getbase.floatingactionbutton.FloatingActionsMenu.RotatingDrawable" visibility="public">
+        <parameter name="p0" type="android.graphics.drawable.Drawable">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getRotation" native="false" return="float" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setRotation" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="float">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.view.View.BaseSavedState" extends-generic-aware="android.view.View.BaseSavedState" final="false" name="FloatingActionsMenu.SavedState" static="true" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="FloatingActionsMenu.SavedState" static="false" type="com.getbase.floatingactionbutton.FloatingActionsMenu.SavedState" visibility="public">
+        <parameter name="p0" type="android.os.Parcelable">
+        </parameter>
+      </constructor>
+      <field deprecated="not deprecated" final="true" name="CREATOR" static="true" transient="false" type="android.os.Parcelable.Creator" type-generic-aware="android.os.Parcelable.Creator&lt;com.getbase.floatingactionbutton.FloatingActionsMenu.SavedState&gt;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="false" name="mExpanded" static="false" transient="false" type="boolean" type-generic-aware="boolean" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="FloatingActionsMenu.SavedState.1" static="true" visibility="">
+      <implements name="android.os.Parcelable.Creator" name-generic-aware="android.os.Parcelable.Creator&lt;com.getbase.floatingactionbutton.FloatingActionsMenu.SavedState&gt;">
+      </implements>
+      <method abstract="false" deprecated="not deprecated" final="false" name="createFromParcel" native="false" return="com.getbase.floatingactionbutton.FloatingActionsMenu.SavedState" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.os.Parcel">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="newArray" native="false" return="com.getbase.floatingactionbutton.FloatingActionsMenu.SavedState[]" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="int">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.view.TouchDelegate" extends-generic-aware="android.view.TouchDelegate" final="false" name="TouchDelegateGroup" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="TouchDelegateGroup" static="false" type="com.getbase.floatingactionbutton.TouchDelegateGroup" visibility="public">
+        <parameter name="p0" type="android.view.View">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="addTouchDelegate" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.view.TouchDelegate">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="clearTouchDelegates" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="removeTouchDelegate" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.view.TouchDelegate">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="setEnabled" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="boolean">
+        </parameter>
+      </method>
+    </class>
+  </package>
+</api>

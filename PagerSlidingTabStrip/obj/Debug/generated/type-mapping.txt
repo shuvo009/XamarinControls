@@ -1,0 +1,8 @@
+com/astuetz/pagerslidingtabstrip/BuildConfig = Com.Astuetz.Pagerslidingtabstrip.BuildConfig
+  <init>()V = .ctor()
+  APPLICATION_ID = ApplicationId
+  BUILD_TYPE = BuildType
+  DEBUG = Debug
+  FLAVOR = Flavor
+  VERSION_CODE = VersionCode
+  VERSION_NAME = VersionName

@@ -1,0 +1,5 @@
+D:\GitHubProjects\XamarinControls\PagerSlidingTabStrip\bin\Debug\PagerSlidingTabStrip.dll
+D:\GitHubProjects\XamarinControls\PagerSlidingTabStrip\bin\Debug\PagerSlidingTabStrip.pdb
+D:\GitHubProjects\XamarinControls\PagerSlidingTabStrip\obj\Debug\PagerSlidingTabStrip.csprojResolveAssemblyReference.cache
+D:\GitHubProjects\XamarinControls\PagerSlidingTabStrip\obj\Debug\PagerSlidingTabStrip.dll
+D:\GitHubProjects\XamarinControls\PagerSlidingTabStrip\obj\Debug\PagerSlidingTabStrip.pdb

@@ -1,0 +1,4 @@
+D:\GitHubProjects\XamarinControls\MaterialViewPager\bin\Debug\MaterialViewPager.dll
+D:\GitHubProjects\XamarinControls\MaterialViewPager\bin\Debug\MaterialViewPager.pdb
+D:\GitHubProjects\XamarinControls\MaterialViewPager\obj\Debug\MaterialViewPager.dll
+D:\GitHubProjects\XamarinControls\MaterialViewPager\obj\Debug\MaterialViewPager.pdb
