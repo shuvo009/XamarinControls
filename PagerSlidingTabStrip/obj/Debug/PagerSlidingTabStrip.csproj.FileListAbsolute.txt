@@ -3,3 +3,8 @@ D:\GitHubProjects\XamarinControls\PagerSlidingTabStrip\bin\Debug\PagerSlidingTab
 D:\GitHubProjects\XamarinControls\PagerSlidingTabStrip\obj\Debug\PagerSlidingTabStrip.csprojResolveAssemblyReference.cache
 D:\GitHubProjects\XamarinControls\PagerSlidingTabStrip\obj\Debug\PagerSlidingTabStrip.dll
 D:\GitHubProjects\XamarinControls\PagerSlidingTabStrip\obj\Debug\PagerSlidingTabStrip.pdb
+E:\MyFiles\XamarinControls\PagerSlidingTabStrip\bin\Debug\PagerSlidingTabStrip.dll
+E:\MyFiles\XamarinControls\PagerSlidingTabStrip\bin\Debug\PagerSlidingTabStrip.pdb
+E:\MyFiles\XamarinControls\PagerSlidingTabStrip\obj\Debug\PagerSlidingTabStrip.csprojResolveAssemblyReference.cache
+E:\MyFiles\XamarinControls\PagerSlidingTabStrip\obj\Debug\PagerSlidingTabStrip.dll
+E:\MyFiles\XamarinControls\PagerSlidingTabStrip\obj\Debug\PagerSlidingTabStrip.pdb

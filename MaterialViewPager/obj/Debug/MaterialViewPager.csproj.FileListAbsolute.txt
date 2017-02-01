@@ -2,3 +2,9 @@ D:\GitHubProjects\XamarinControls\MaterialViewPager\bin\Debug\MaterialViewPager.
 D:\GitHubProjects\XamarinControls\MaterialViewPager\bin\Debug\MaterialViewPager.pdb
 D:\GitHubProjects\XamarinControls\MaterialViewPager\obj\Debug\MaterialViewPager.dll
 D:\GitHubProjects\XamarinControls\MaterialViewPager\obj\Debug\MaterialViewPager.pdb
+E:\MyFiles\XamarinControls\MaterialViewPager\bin\Debug\MaterialViewPager.dll
+E:\MyFiles\XamarinControls\MaterialViewPager\bin\Debug\MaterialViewPager.pdb
+E:\MyFiles\XamarinControls\MaterialViewPager\obj\Debug\MaterialViewPager.dll
+E:\MyFiles\XamarinControls\MaterialViewPager\obj\Debug\MaterialViewPager.pdb
+E:\MyFiles\XamarinControls\MaterialViewPager\obj\Debug\MaterialViewPager.dll.mdb
+E:\MyFiles\XamarinControls\MaterialViewPager\bin\Debug\MaterialViewPager.dll.mdb

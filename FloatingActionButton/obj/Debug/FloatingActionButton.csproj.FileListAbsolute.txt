@@ -8,3 +8,8 @@ D:\GitHubProjects\XamarinControls\FloatingActionButton\bin\Debug\FloatingActionB
 D:\GitHubProjects\XamarinControls\FloatingActionButton\bin\Debug\FloatingActionButton.pdb
 D:\GitHubProjects\XamarinControls\FloatingActionButton\obj\Debug\FloatingActionButton.dll
 D:\GitHubProjects\XamarinControls\FloatingActionButton\obj\Debug\FloatingActionButton.pdb
+E:\MyFiles\XamarinControls\FloatingActionButton\bin\Debug\FloatingActionButton.dll
+E:\MyFiles\XamarinControls\FloatingActionButton\bin\Debug\FloatingActionButton.pdb
+E:\MyFiles\XamarinControls\FloatingActionButton\obj\Debug\FloatingActionButton.csprojResolveAssemblyReference.cache
+E:\MyFiles\XamarinControls\FloatingActionButton\obj\Debug\FloatingActionButton.dll
+E:\MyFiles\XamarinControls\FloatingActionButton\obj\Debug\FloatingActionButton.pdb

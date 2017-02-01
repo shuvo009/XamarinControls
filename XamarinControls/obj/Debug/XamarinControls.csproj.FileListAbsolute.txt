@@ -52,3 +52,35 @@ C:\Users\shuvo\OneDrive\Documents\Visual Studio 2015\Projects\XamarinControls\Xa
 C:\Users\shuvo\OneDrive\Documents\Visual Studio 2015\Projects\XamarinControls\XamarinControls\obj\Debug\android\assets\XamarinControls.dll.mdb
 C:\Users\shuvo\OneDrive\Documents\Visual Studio 2015\Projects\XamarinControls\XamarinControls\obj\Debug\XamarinControls.dll.mdb
 D:\GitHubProjects\XamarinControls\XamarinControls\obj\Debug\XamarinControls.csprojResolveAssemblyReference.cache
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\XamarinControls.csprojResolveAssemblyReference.cache
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\XamarinControls.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\XamarinControls.pdb
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\XamarinControls.XamarinControls.apk
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\XamarinControls.XamarinControls-Signed.apk
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Binding_Materialtabstrip.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\MaterialViewPager.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\MaterialViewPager.pdb
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\Binding_Materialtabstrip.pdb
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\XamarinControls.dll
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\XamarinControls.pdb
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\android\bin\XamarinControls.XamarinControls.apk
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\res\layout\floating_action_button.xml
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\res\layout\main.xml
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\res\values\strings.xml
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\res\drawable\icon.png
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\res\drawable\ic_fab_star.png
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\R.cs.flag
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\uploadflags.txt
+E:\MyFiles\XamarinControls\XamarinControls\obj\Debug\XamarinControls.dll.mdb
+E:\MyFiles\XamarinControls\XamarinControls\bin\Debug\XamarinControls.dll.mdb

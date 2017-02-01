@@ -1,0 +1,5 @@
+E:\MyFiles\XamarinControls\XamarinControls\AndroidBindings\Binding_Materialviewpager\bin\Debug\Binding_Materialviewpager.dll
+E:\MyFiles\XamarinControls\XamarinControls\AndroidBindings\Binding_Materialviewpager\bin\Debug\Binding_Materialviewpager.pdb
+E:\MyFiles\XamarinControls\XamarinControls\AndroidBindings\Binding_Materialviewpager\obj\Debug\Binding_Materialviewpager.dll
+E:\MyFiles\XamarinControls\XamarinControls\AndroidBindings\Binding_Materialviewpager\obj\Debug\Binding_Materialviewpager.pdb
+E:\MyFiles\XamarinControls\XamarinControls\AndroidBindings\Binding_Materialviewpager\obj\Debug\Binding_Materialviewpager.csprojResolveAssemblyReference.cache

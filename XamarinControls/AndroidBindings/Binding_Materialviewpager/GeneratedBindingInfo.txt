@@ -1,0 +1,6 @@
+Binding for:
+com.github.florent37:materialviewpager:1.2.0@aar
+
+Dependencies:
+
+materialviewpager-1.2.0.aar,    Path=C:\Users\hasanuzzaman\.gradle\caches\modules-2\files-2.1\com.github.florent37\materialviewpager\1.2.0\4725efbe61a782c75739cb31869c08624903779b\materialviewpager-1.2.0.aar

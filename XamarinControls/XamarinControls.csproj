@@ -126,20 +126,6 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FloatingActionButton\FloatingActionButton.csproj">
-      <Project>{cb94e2f4-5ca7-4a14-889c-fcaaae6bbd68}</Project>
-      <Name>FloatingActionButton</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\MaterialViewPager\MaterialViewPager.csproj">
-      <Project>{88f8a4cc-669d-42eb-b7a2-5cce02e4c572}</Project>
-      <Name>MaterialViewPager</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\PagerSlidingTabStrip\PagerSlidingTabStrip.csproj">
-      <Project>{b5dd3e25-0e80-404f-b6b8-9723d4005157}</Project>
-      <Name>PagerSlidingTabStrip</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <XamarinComponentReference Include="xamandroidsupportdesign">
       <Visible>False</Visible>
       <Version>24.2.1.0</Version>
@@ -164,6 +150,16 @@
   </ItemGroup>
   <ItemGroup>
     <TransformFile Include="Resources\values\themes.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MaterialViewPager\MaterialViewPager.csproj">
+      <Project>{88f8a4cc-669d-42eb-b7a2-5cce02e4c572}</Project>
+      <Name>MaterialViewPager</Name>
+    </ProjectReference>
+    <ProjectReference Include="AndroidBindings\Binding_Materialviewpager\AndroidBindings\Binding_Materialtabstrip\Binding_Materialtabstrip.csproj">
+      <Project>{54814b1a-3fed-4964-a1a8-663bbc8cdefd}</Project>
+      <Name>Binding_Materialtabstrip</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Android.Support.Vector.Drawable.24.2.1\build\Xamarin.Android.Support.Vector.Drawable.targets" Condition="Exists('..\packages\Xamarin.Android.Support.Vector.Drawable.24.2.1\build\Xamarin.Android.Support.Vector.Drawable.targets')" />

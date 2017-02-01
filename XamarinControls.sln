@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialViewPager", "Materi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagerSlidingTabStrip", "PagerSlidingTabStrip\PagerSlidingTabStrip.csproj", "{B5DD3E25-0E80-404F-B6B8-9723D4005157}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding_Materialviewpager", "XamarinControls\AndroidBindings\Binding_Materialviewpager\Binding_Materialviewpager.csproj", "{F4F5ED2E-A2F1-4E90-9B1B-60B669002281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding_Materialtabstrip", "XamarinControls\AndroidBindings\Binding_Materialviewpager\AndroidBindings\Binding_Materialtabstrip\Binding_Materialtabstrip.csproj", "{54814B1A-3FED-4964-A1A8-663BBC8CDEFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,14 @@ Global
 		{B5DD3E25-0E80-404F-B6B8-9723D4005157}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5DD3E25-0E80-404F-B6B8-9723D4005157}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5DD3E25-0E80-404F-B6B8-9723D4005157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F5ED2E-A2F1-4E90-9B1B-60B669002281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F5ED2E-A2F1-4E90-9B1B-60B669002281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F5ED2E-A2F1-4E90-9B1B-60B669002281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F5ED2E-A2F1-4E90-9B1B-60B669002281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54814B1A-3FED-4964-A1A8-663BBC8CDEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54814B1A-3FED-4964-A1A8-663BBC8CDEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54814B1A-3FED-4964-A1A8-663BBC8CDEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54814B1A-3FED-4964-A1A8-663BBC8CDEFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

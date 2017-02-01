@@ -27,11 +27,11 @@ namespace Com.Astuetz.Pagerslidingtabstrip {
 
 		// Metadata.xml XPath field reference: path="/api/package[@name='com.astuetz.pagerslidingtabstrip']/class[@name='BuildConfig']/field[@name='VERSION_CODE']"
 		[Register ("VERSION_CODE")]
-		public const int VersionCode = (int) -1;
+		public const int VersionCode = (int) 10;
 
 		// Metadata.xml XPath field reference: path="/api/package[@name='com.astuetz.pagerslidingtabstrip']/class[@name='BuildConfig']/field[@name='VERSION_NAME']"
 		[Register ("VERSION_NAME")]
-		public const string VersionName = (string) "";
+		public const string VersionName = (string) "1.0.1";
 		internal static IntPtr java_class_handle;
 		internal static IntPtr class_ref {
 			get {
